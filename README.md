@@ -1,10 +1,10 @@
-# Python Capstone Project – Employee & Project Data Analysis
+# Python Capstone Project:
 
 This project demonstrates real-world data analysis using Python, Pandas, and NumPy. It involves working with three related datasets: Employee, Project, and Seniority Level. The analysis includes data cleaning, transformation, merging, and conditional logic operations to extract meaningful insights.
 
 ---
 
-## 📌 Project Summary (STAR Format)
+## 📌 Project Summary:
 
 ### ✅ **Situation**
 A simulated business dataset involving three separate but related tables—**Employee**, **Project**, and **Seniority Level**—was provided to replicate real-world scenarios in workforce and project management.
